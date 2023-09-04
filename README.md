@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Daniel.
+
+My Speciality is in Python, Java, and Javascript.
+
+My tools knowledge are in Artificial Intelligence tools such as tensorflow, pyTorch.
 <!--
 **danielLeung28/danielLeung28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
